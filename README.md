@@ -1,7 +1,17 @@
-Pneumonia Classification with VGG16
+Pneumonia X-Ray Classification with VGG16
 -----------------------
 
-Predict whether a patient has pneumonia or not. A dataset of X-Ray chest images containing healthy patients and patients with pneumoinia is used to train a classification model with VGG16. Dataset is [here](https://data.mendeley.com/datasets/rscbjbr9sj/2).
+Deep network to predict whether a patient has pneumonia or not from x-ray images. A dataset of x-ray chest images containing over 5 thousand images of healthy patients and patients with pneumoinia is used to train a classification model with VGG16, a bidirectional LSTM model. Dataset is [here](https://data.mendeley.com/datasets/rscbjbr9sj/2). You can see the data processing, model, code, and full explanations in the `PneumoniaClassification.ipynb` notebook above.
+
+Quick Overview
+----------------------
+
+
+
+Results
+----------------------
+
+
 
 Installation
 ----------------------
